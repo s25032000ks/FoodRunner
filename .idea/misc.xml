@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/drawable/btnblueish.xml" value="0.1845" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/drawable/btnred.xml" value="0.1" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/drawable/button_shape.xml" value="0.1845" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/drawable/camerabtnshape.xml" value="0.1" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/drawable/ic_camera_alt_black_24dp.xml" value="0.1255" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.137" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/font/poppins_medium.xml" value="0.3046875" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_chef__post_dish.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_chef_food_panel__bottom_navigation.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_chef_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_chef_post_dish.xml" value="0.264" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_chef_registeration.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_chef_verify_phone.xml" value="0.264" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_chefloginphone.xml" value="0.1685185185185185" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_choose_one.xml" value="0.264" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_delivery__food_panel_bottom_navigation.xml" value="0.264" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_delivery__verify_phone.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_food_panel__bottom_navigation.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_main_menu.xml" value="0.264" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_order_dish.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_registeration.xml" value="0.27025641025641023" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_update__delete__dish.xml" value="0.264" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/activity_verify_phone.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/chef_menu_update_delete.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/customer_menudish.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/fragment_chef_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/fragment_chef_order.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/fragment_chef_pendingorders.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/fragment_chef_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/layout/fragment_customerhome.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/menu/bottom_navigation.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/menu/chef_bottom_navigation.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/menu/delivery_bottom_navigation.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/menu/logout.xml" value="0.18981481481481483" />
+        <entry key="..\:/Word File/Major/Fodo-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.137" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/drawable/background_shape.xml" value="0.1845" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/drawable/btnred.xml" value="0.1475" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/layout/activity_chef__post_dish.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/layout/activity_main_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/layout/activity_update__delete__dish.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/layout/customer_menudish.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/layout/enter_address.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/layout/fragment_customerprofile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/menu/bottom_navigation.xml" value="0.27447916666666666" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/mipmap-anydpi-v26/food_runner_logo.xml" value="0.1845" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/mipmap-anydpi-v26/ic_Mlauncher.xml" value="0.1845" />
+        <entry key="..\:/Word File/Major/FoodsRunner/app/src/main/res/mipmap-anydpi-v26/ic_Mlauncher_round.xml" value="0.137" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

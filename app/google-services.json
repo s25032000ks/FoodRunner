@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876109414455",
+    "firebase_url": "https://fodo-4eb80-default-rtdb.firebaseio.com",
+    "project_id": "fodo-4eb80",
+    "storage_bucket": "fodo-4eb80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876109414455:android:467d28b47a7a253bef7fb2",
+        "android_client_info": {
+          "package_name": "com.example.fodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876109414455-g4i365ff6aeto9i3vplbjd9l1u3uvenu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fodo",
+            "certificate_hash": "c886fdde61baa0127957cf679ddbf336c8c96405"
+          }
+        },
+        {
+          "client_id": "876109414455-p702lj1bf5jnah7h6ingir480393d278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVGhtbBHslzNnTvPhiFUw3VNm_V88KNOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876109414455-p702lj1bf5jnah7h6ingir480393d278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
